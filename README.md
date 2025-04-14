@@ -34,12 +34,6 @@ Used Pivot Tables to analyze:
 
 -----
 
-## File Contents 
-- bike_dashboard.xlsx -- The interactive Excel dashboard. Includes the raw data!
-- README.md -- What you're reading right now! The Project Overview
-
------
-
 ## How to Use 
 1. Download and open bike_dashboard.xlsx in Microsoft Excel
 2. Use the slicers on the dashboard to filter and explore the data
