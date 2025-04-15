@@ -9,11 +9,11 @@ This dashboard helps analyze:
 - Commute distances categorized into mileage ranges
 - Age demographics through custom age brackets
 
-It allowes users to explore these insights through interactive silcers and visuals.
+It allows users to explore these insights through interactive silcers and visuals.
 
 -----
 
-## What I did 
+## My Deeds: 
 
 ### Data Cleaning 
 - Addressed inconsistencies in the original dataset
