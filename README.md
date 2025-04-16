@@ -5,7 +5,7 @@ A practice project that features an interactive Excel dashboard that provides in
 ## Overview
 
 This dashboard helps analyze: 
-- Customer income trends by Sex
+- Customer income trends by Gender
 - Commute distances categorized into mileage ranges
 - Age demographics through custom age brackets
 
