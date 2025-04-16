@@ -38,5 +38,10 @@ Used Pivot Tables to analyze:
 1. Download and open bike_dashboard.xlsx in Microsoft Excel
 2. Use the slicers on the dashboard to filter and explore the data
 3. Interact with the charts for more details and insights
-4. If you want, edit the Excel file to your liking! Find more insights or modify the visualizations to make them look better!
+4. If you want, edit the spreadsheet to your liking! Find more insights or modify the visualizations to make them look better!
+
+------
+
+This project was based off of a guided project from [Alex the Analyst]([url](https://www.youtube.com/watch?v=opJgMj1IUrc))
+
 
